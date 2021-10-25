@@ -24,7 +24,7 @@ const App = () => {
     }
    } */
 
-   const[text,setText] = useState("No Notes");
+   const[text,setText] = useState("No Notesssss");
    const[items,setItems] = useState([]);
 
   
